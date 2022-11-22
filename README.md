@@ -1,21 +1,33 @@
-# **How to be stressed?**
+# STUDENTS AREA
 
-### I am a student so I've got experience. That's why, if you wanna be stressed just listen to everything I say. (^人^)
+## ACADEMICS
+### Pomodoro timer
+> When you can't focus in a long period of time when studying. The pomodoro technique can help you heaps! (｡･∀･)ﾉﾞ
 
-### 1. Don't do your tasks.
-> Doesn't sound stressing, right? Let's see on the day of the deadline.
+[Pomodoro Timer](https://pomofocus.io/)
 
-### 2. Have a "relationship" early.
-> Do you think that high school drama is realistic? Ha! In your face! You'll wish you won't have to arrive to school because of that. Well, unless-
+### Time table
+> If you want to plan ahead, I present you the time table. You can either set it up daily, weekly, or even monthly.
+> This is an example of a daily time table (this is often used if you lack self control):
 
-### 3. Don't study.
-> Good luck on the day of the test!! ヾ(•ω•`)o
+| Monday  | Tasks |
+| ------------- | ------------- |
+| 0500-0600  | Me time  |
+| 0600-0800  | Physiological needs  |
+| 0800-1100  | Science  |
+| 1100-1200  | Computer  |
+| 1200-1300  | Lunch  |
+| 1300-1600  | English  |
+| 1600-1800  | MAPEH  |
 
-### 4. Raise everyone's expectations.
-> Don't be too proud now, there there. You might raise others expectations in you. You'll be forced to do your hardest. #guilty
+> Meanwhile this is weekly time table (this needs some self control):
 
-## Conclusion
-Make sure you don't get stressed. I love all of the students that's why ***good luck for this school year 2022-2023*** !!
-
-Oh, and also.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XLw9WJrMBuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+| Time   | Monday  | Tuesday  | Wednesday  | Thursday  | Friday  | Saturday  | Sunday  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 0500-0600  | Me time  |
+| 0600-0800  | Physiological needs  |
+| 0800-1100  | Science  |
+| 1100-1200  | Computer  |
+| 1200-1300  | Lunch  |
+| 1300-1600  | English  |
+| 1600-1800  | MAPEH  |
